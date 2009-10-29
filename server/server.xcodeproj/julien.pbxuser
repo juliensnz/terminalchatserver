@@ -39,7 +39,7 @@
 					20,
 					317,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -69,7 +69,7 @@
 	08FB7796FE84155DC02AAC07 /* main.c */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {519, 237}}";
-			sepNavSelRange = "{127, 0}";
+			sepNavSelRange = "{149, 0}";
 			sepNavVisRange = "{0, 149}";
 			sepNavWindowFrame = "{{15, 69}, {608, 704}}";
 		};
