@@ -55,11 +55,23 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 278530219;
-			PBXWorkspaceStateSaveDate = 278530219;
+			PBXPerProjectTemplateStateSaveDate = 278530447;
+			PBXWorkspaceStateSaveDate = 278530447;
+		};
+		perUserProjectItems = {
+			F970D0B4109A09A2007846E4 /* PBXBookmark */ = F970D0B4109A09A2007846E4 /* PBXBookmark */;
+			F970D0B5109A09A2007846E4 /* PBXTextBookmark */ = F970D0B5109A09A2007846E4 /* PBXTextBookmark */;
 		};
 		sourceControlManager = F970D096109A08DA007846E4 /* Source Control */;
 		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 237}}";
+			sepNavSelRange = "{127, 0}";
+			sepNavVisRange = "{0, 149}";
+			sepNavWindowFrame = "{{15, 69}, {608, 704}}";
 		};
 	};
 	8DD76FA90486AB0100D96B5E /* server */ = {
@@ -84,6 +96,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -91,6 +104,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = server;
+		savedGlobals = {
+		};
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
@@ -108,5 +123,19 @@
 	F970D097109A08DA007846E4 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	F970D0B4109A09A2007846E4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.c */;
+	};
+	F970D0B5109A09A2007846E4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.c */;
+		name = "main.c: 5";
+		rLen = 0;
+		rLoc = 127;
+		rType = 0;
+		vrLen = 149;
+		vrLoc = 0;
 	};
 }
